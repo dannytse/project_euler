@@ -1,1 +1,1 @@
-# project_euler
+Code for ProjectEuler problems.
